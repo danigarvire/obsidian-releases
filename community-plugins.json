@@ -19045,5 +19045,12 @@
     "author": "dreamscached",
     "description": "Generate Steam Guard codes right in your vault.",
     "repo": "dreamscached/obsidian-simple-steam-auth"
-  }
+  },
+  {
+  "id": "folio",
+  "name": "Folio",
+  "author": "Daniel Garvire",
+  "description": "Project-based long-form writing environment for books and scripts.",
+  "repo": "danigarvire/Folio"
+}
 ]
