@@ -18179,6 +18179,13 @@
     "repo": "santiyounger/wpm-reading-time"
   },
   {
+    "id": "folio",
+    "name": "Folio",
+    "author": "Daniel Garvire",
+    "description": "Project-based long-form writing environment for books and scripts.",
+    "repo": "danigarvire/Folio"
+  },
+  {
     "id": "advanced-exclude",
     "name": "Advanced Exclude",
     "author": "Michael Naumov",
